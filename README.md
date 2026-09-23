@@ -13,7 +13,7 @@ This profile is where I'll be sharing projects, experiments, and things I'm curr
 - Python, SQL, JavaScript
 - PyTorch, FastAPI
 - PostgreSQL, SQLite
-- Git, GitHub, VS Code
+- GitHub, VS Code
 - ChatGPT, Claude
 
 ---
