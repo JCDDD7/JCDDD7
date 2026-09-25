@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Daniel, a Computer Engineering student at BRAZIL.
+I'm Daniel, a Computer Engineering student in BRAZIL.
 I'm currently focused on Python, backend development, AI, and machine learning.
 I like building projects that help me understand how things actually work instead of just following tutorials.
 This profile is where I'll be sharing projects, experiments, and things I'm currently learning.
